@@ -37,7 +37,7 @@ You can copy/paste the following configuration details into the corresponding fi
 
 | Key | Value |
 |---|---|
-| 网络 | Bitlayer Testnet |
+| Network | Bitlayer Testnet |
 | RPC URL | [https://testnet-rpc.bitlayer.org](https://testnet-rpc.bitlayer.org) |
 | Chain ID | 200810 |
 | urrency symbol | BTC |
