@@ -5,6 +5,8 @@ sidebar_position: 7
 # Bridges
 
 Bridges play a crucial role in connecting Bitlayer with other blockchain networks, enabling seamless interoperability and cross-chain asset transfers. Through bridges, Bitlayer users and developers can leverage the power of multiple blockchain ecosystems. Bitlayer is designed to support various bridge implementations to facilitate communication between different blockchains. This section provides an overview of the available bridges in the Bitlayer ecosystem.
+
+![alt text](bridge.png)
  
 ## Bitlayer < - > Blockchains
 

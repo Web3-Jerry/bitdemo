@@ -56,6 +56,7 @@ Here is a faucet directly distributes Bitlayer Testnet tokens: https://www.bitla
 
 It may take a few seconds for them to appear, but you can check the status by looking for a transaction for your address in [Bitlayer Explorer](https://testnet-scan.bitlayer.org).
 
+![alt text](faucet.png)
 
 **Pace Yourself!**
 
