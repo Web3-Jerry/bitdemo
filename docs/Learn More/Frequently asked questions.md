@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Frequently asked questions
+# Frequently Asked Questions
 
 ### Q: When does Bitlayer launch?
 A: The mainnet launch of Bitlayer is scheduled for early April.
@@ -16,10 +16,15 @@ A: Yes, Bitlayer is EVM-compatible. Bitlayer's deep integration with the Ethereu
 A: To join the Bitlayer community, you can visit the social media channels of Bitlayer, such as Telegram groups, Discord, or Twitter, where you can interact with other community members and stay updated on the latest developments.
 
 Discord: https://discord.com/invite/GGSjNyD8nj
+
 Twitter: https://twitter.com/BitLayerLabs
+
 Linkedin: https://www.linkedin.com/company/bitlayerlabs/
+
 Telegram: https://t.me/bitlayerofficial
+
 Medium: https://medium.com/@Bitlayer
+
 GithHub: https://github.com/bitlayer-org
 
 
@@ -35,9 +40,13 @@ A: Bitlayer is being built by a team of engineers with experience in top platfor
 A: For press inquiries related to Bitlayer, you can reach out to the Bitlayer team through our official communication channels.
 
 Website：https://www.bitlayer.org/
+
 Twitter: https://twitter.com/BitLayerLabs
+
 Github: https://github.com/bitlayer-org
+
 Medium：https://medium.com/@Bitlayer
+
 Email: build@bitlayer.org
 
     
