@@ -35,13 +35,13 @@ Fill out the network information as follows. Once the data is entered correctly,
 
 You can copy/paste the following configuration details into the corresponding field in your wallet.
 
-｜----｜----｜
-｜Key｜Value｜
-｜Network｜Bitlayer Testnet｜
-｜RPC URL｜[https://testnet-rpc.bitlayer.org](https://testnet-rpc.bitlayer.org)｜
-｜Chain ID｜200810｜
-｜Currency symbol｜BTC｜
-｜----｜----｜
+| Key | Value |
+|---|---|
+| 网络 | Bitlayer Testnet |
+| RPC URL | [https://testnet-rpc.bitlayer.org](https://testnet-rpc.bitlayer.org) |
+| Chain ID | 200810 |
+| urrency symbol | BTC |
+
 
 After saving the network configuration, you should now have the Bitlayer Testnet selected!
 
