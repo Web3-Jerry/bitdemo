@@ -22,7 +22,10 @@ Here's a screenshot of how to set the Priority Fee:
 ![alt text](<Metamask.png>)
 
 ## Chainid
-The chainid for the Bitlayer testnet is 200810. 
+
+```
+200810 
+```
 
 ## Native Token
 The native token used on the Bitlayer testnet is BTC. 
