@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/about-bitlayer">
-            Bitlayer Tutorial - 5min ⏱️
+            Bitlayer Dev Docs - 5min ⏱️
           </Link>
         </div>
       </div>
