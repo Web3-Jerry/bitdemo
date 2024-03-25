@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Build Now',
           },
-          {to: '/tutorial', label: 'Learn More', position: 'left'},
+          {to: '/docs', label: 'Learn More', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/bitlayer-org',
@@ -92,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/category/about-bitlayer',
               },
             ],
