@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7280],{196:e=>{e.exports=JSON.parse('{"title":"Overview","slug":"/category/overview-1","permalink":"/bitdemo/learn/category/overview-1","navigation":{"next":{"title":"learnSidebar","permalink":"/bitdemo/learn/Overview/BitVM"}}}')}}]);
