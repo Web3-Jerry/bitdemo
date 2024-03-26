@@ -62,7 +62,7 @@ const config = {
         id: 'learn',
         path: 'learn',
         routeBasePath: 'learn',
-        sidebarPath: './sidebars2.js',
+        sidebarPath: './sidebars.js',
         // ... other options
       },
     ],
