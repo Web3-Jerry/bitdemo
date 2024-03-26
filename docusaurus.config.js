@@ -62,7 +62,7 @@ const config = {
         id: 'learn',
         path: 'learn',
         routeBasePath: 'learn',
-        sidebarPath: './sidebars.js',
+        sidebarPath: './sidebars2.js',
         // ... other options
       },
     ],
@@ -82,7 +82,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'OSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Build Now',
           },
