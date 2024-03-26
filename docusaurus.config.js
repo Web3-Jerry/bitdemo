@@ -16,12 +16,12 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/bitdemo/',
+  baseUrl: '/demobitlayer/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'web3-jerry', // Usually your GitHub org/user name.
-  projectName: 'bitdemo', // Usually your repo name.
+  projectName: 'demobitlayer', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,19 +40,31 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // id: 'product', // omitted => default instance
+          id: 'default',
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         theme: {
           customCss: './src/css/custom.css',
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'learn',
+        path: 'learn',
+        routeBasePath: 'learn',
+        sidebarPath: './sidebars.js',
+        // ... other options
+      },
     ],
   ],
 
@@ -70,14 +82,19 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'OSidebar',
             position: 'left',
             label: 'Build Now',
           },
-          {to: '/docs/category/about-bitlayer', label: 'Learn More', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'learnSidebar',
+            position: 'left',
+            label: 'Learn More',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/bitlayer-org',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -90,7 +107,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
+                label: 'Tutorial',
                 to: '/docs/category/about-bitlayer',
               },
             ],
@@ -104,11 +121,11 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/GGSjNyD8nj',
+                href: 'https://discordapp.com/invite/docusaurus',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/BitLayerLabs',
+                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
@@ -121,12 +138,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/bitlayer-org',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bitlayer, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
