@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bitlayer: Amplifying Bitcoin","permalink":"/bitdemo/blog/Bitlayer: Amplifying Bitcoin","unlisted":false}]}')}}]);

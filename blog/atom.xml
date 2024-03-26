@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/bitdemo/blog</id>
+    <id>https://your-docusaurus-site.example.com/demobitlayer/blog</id>
     <title>Bitlayer Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/bitdemo/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/demobitlayer/blog"/>
     <subtitle>Bitlayer Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/bitdemo/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-site.example.com/demobitlayer/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bitlayer: Amplifying Bitcoin]]></title>
-        <id>https://your-docusaurus-site.example.com/bitdemo/blog/Bitlayer: Amplifying Bitcoin</id>
-        <link href="https://your-docusaurus-site.example.com/bitdemo/blog/Bitlayer: Amplifying Bitcoin"/>
+        <id>https://your-docusaurus-site.example.com/demobitlayer/blog/Bitlayer: Amplifying Bitcoin</id>
+        <link href="https://your-docusaurus-site.example.com/demobitlayer/blog/Bitlayer: Amplifying Bitcoin"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin is changing. Drastically.]]></summary>
         <content type="html"><![CDATA[<p>Bitcoin is changing. Drastically.</p>
