@@ -41,7 +41,7 @@ const config = {
       ({
         docs: {
           // id: 'product', // omitted => default instance
-          id: 'docs',
+          id: 'default',
           path: 'docs',
           routeBasePath: 'docs',
           sidebarPath: './sidebars.js',
